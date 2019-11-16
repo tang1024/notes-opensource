@@ -1,30 +1,31 @@
 Note for interesting open source projects
 
-Data structures
-===============
-- `ext-ds: An extension providing efficient data structures for PHP 7 <https://github.com/php-ds/ext-ds>`_
-- `ck: Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures <https://github.com/concurrencykit/ck>`_
-- `A simple C string lib <https://github.com/cloudwu/cstring>`_
-
-Computer Graphics
-=================
+1. Computer Graphics
+====================
 - `raytracer, raycaster, renderer, kaboom <https://github.com/ssloy/tinyrenderer/wiki>`_
 - `OpenGL NeHe Tutorial Source Code <https://github.com/Soledad89/OpenGLNehe>`_
+- `Edx Computer Graphics <https://www.edx.org/course/computer-graphics-2>`_
+- `Code for my OpenGL graphics on YouTube <https://github.com/1kingja/graphics>`_
 
-Ray Tracing
-===========
+1.1. Physically Based Rendering
+-------------------------------
+- `PBRT <http://www.pbrt.org>`_
+- `Mitsuba <https://github.com/mitsuba-renderer/mitsuba>`_
+- `LuxRender <https://github.com/LuxCoreRender/LuxCore>`_
+
+1.2. Ray Tracing
+----------------
 - `Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics <https://github.com/xelatihy/yocto-gl>`_
 - `Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)  <https://github.com/aras-p/ToyPathTracer>`_
 - `Path tracing, done three ways <https://github.com/mattgodbolt/pt-three-ways>`_
 - `Presentation for pt-three-ways <https://github.com/mattgodbolt/pt-three-ways-pres>`_
 
+2. Video Game
+=============
 GUI
-===
+---
+- `Unmerged PR: Native Win32 and OSX example <https://github.com/ocornut/imgui/pull/281>`_
 - `NanoVG: small antialiased vector graphics rendering C library for OpenGL. <https://github.com/memononen/nanovg>`_
-
-Game
-====
-- `Handmade projects <https://handmade.network/projects>`_
 
 C Game
 ------
@@ -35,15 +36,31 @@ C++ Game
 --------
 - `flare-game: Fantasy action RPG using the FLARE engine <https://github.com/flareteam/flare-game>`_
 
+Handmade Project
+----------------
+- `Handmade projects <https://handmade.network/projects>`_
+
+MMO
+---
 skynet
-======
+``````
 - `skynet cmake <https://github.com/berlinhuang/skynet>`_
 - `some-mmorpg <https://github.com/jintiao/some-mmorpg>`_
 - `an unity mmo demo, include client and server, base on ecs(game play), xlua(ui) and skynet(server) <https://github.com/liuhaopen/UnityMMO>`_
 
 ECS
-===
+---
 - `ECS回放系统演示demo <https://github.com/coding2233/Entitas-Replay-Demo>`_
+
+Data structures
+===============
+- `ext-ds: An extension providing efficient data structures for PHP 7 <https://github.com/php-ds/ext-ds>`_
+- `ck: Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures <https://github.com/concurrencykit/ck>`_
+- `A simple C string lib <https://github.com/cloudwu/cstring>`_
+
+Web
+===
+- `xiunobbs <https://bbs.xiuno.com/>`_
 
 CPU in Verilog
 ==============
