@@ -8,6 +8,7 @@ Data structures
 
 Computer Graphics
 =================
+- `raytracer, raycaster, renderer, kaboom <https://github.com/ssloy/tinyrenderer/wiki>`_
 - `OpenGL NeHe Tutorial Source Code <https://github.com/Soledad89/OpenGLNehe>`_
 
 Ray Tracing
@@ -21,13 +22,17 @@ GUI
 ===
 - `NanoVG: small antialiased vector graphics rendering C library for OpenGL. <https://github.com/memononen/nanovg>`_
 
+Game
+====
+- `Handmade projects <https://handmade.network/projects>`_
+
 C Game
-======
+------
 - `MMORPG game-engine/source for Astonia III & Astonia 3.5 <https://github.com/eddoww/astonia3>`_
 - `ioquake3 <https://github.com/ioquake/ioq3>`_
 
 C++ Game
-========
+--------
 - `flare-game: Fantasy action RPG using the FLARE engine <https://github.com/flareteam/flare-game>`_
 
 skynet
